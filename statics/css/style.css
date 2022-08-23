@@ -1,0 +1,18 @@
+.jumbotron {
+    background-image: url("../images/bacteriaPic4.JPG");
+    background-size: 100% 100%;
+    text-align: center;
+    font-weight: 500;
+}
+
+.jumbo_text {
+    color: white;
+}
+
+.panel-default > .panel-heading-custom {
+    background: #495dcb; color: #fff; }
+
+
+.panel-heading {
+    color: black;
+}
