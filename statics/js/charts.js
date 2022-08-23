@@ -126,7 +126,7 @@ function buildCharts(subjectID) {
 
     // 2. Create the layout for the bubble chart.
     var bubbleLayout = {
-      title: 'Bacteria Cultures Per Sample',
+      title: '<b>Bacteria Cultures Per Sample</b>',
       //showlegend: false,
       height: 600,
       width: 1200
@@ -163,7 +163,7 @@ function buildCharts(subjectID) {
     }];
     
     // 5. Create the layout for the gauge chart.
-    var gaugeLayout = { width: 450, height: 500, margin:{t:0, b:0}};
+    var gaugeLayout = { width: 400, height: 500, margin:{t:0, b:0}};
 
     // 6. Use Plotly to plot the gauge data and layout.
     Plotly.newPlot("gauge", gaugeData, gaugeLayout);
