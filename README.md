@@ -1,16 +1,13 @@
 # Belly Button Biodiversity Study Dashboard
 
 ## Purpose:
-Creats a web-base dashboard to visualized individual volunteer's sample data in a biologcial study.
+Create a web-based dashboard to visualize individual volunteers' sample data in a biological study.
+
 
 ##  Details:
-We design a webpage where user can see a visual display of sample data collected from individual volunteer.
+We designed a webpage where users can see a visual display of sample data collected from each individual volunteer.
+Users will be able to select from a list of volunteers from the "Test Subject ID No." drop-down menu.  The web page will then refresh with data from the selected volunteer. This includes individual volunteer demographic information, top-10 bacterial type collected in a bar chart, weekly wash frequency in a gauge chart, and a bubble chart showing all of the bacteria in the collected sample where the size of the bubble corresponds to the amount of the specfic bacteria in the sample.
 
-User will be able to select from a list of volunteers from the "Test Subject ID No." drop down menu.
-
-The web page will then display data from the selected volunteer.  This includes demographic information, top-10 bacterial culture in a bar chart, weekly wash frequency in a guage, and all of the bacteria in collected sample in a bubble chart where size of the bubble corresponds to the amount of specfic bacteria in the sample.
-<br>
-
-<img src = "statics/images/WebPage.jpg" width = "500px">
+<img src = "statics/images/WebPage.JPG" width = "500px">
 
 
